@@ -1,6 +1,7 @@
 {
     "compilerOptions": {
         "target": "es5",
-        "watch": false
+        "watch": false,
+        "module": "es2015"
     }
 }

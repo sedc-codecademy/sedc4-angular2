@@ -24,3 +24,8 @@ function displayBigText(text) {
 }
 displayBigText("Wekoslav");
 displayBigText(["Wekoslav", "Stefanovski"]);
+"West" | "East" | "North" | "South";
+var direction;
+direction = "West";
+direction = null;
+direction = "East";
